@@ -1,0 +1,281 @@
+body{
+    background-color: #FBFBFC;
+}
+header{
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #19191C;
+}
+.offer{
+    background-color: #EFEFF2;
+}
+.offer__length{
+    font-style: H6 Bold;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.offer__description{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.offer__title{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;    
+    color: #19191C;
+}
+.button{
+    font-style: H6 Bold;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    background-color: #504DEE;
+}
+.offer__sale{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.offer__time{
+    font-style: H6 Bold;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.offer__list{
+    font-style: H6 Bold;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21.78px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #19191C;
+}
+.profession{
+    background-color: #FBFBFC;
+}
+.profession__title{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70.19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.profession__description{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6D6D77;
+}
+.profession__counter-number{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70.19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.profession__counter-description{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.profession__description{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6D6D77;
+}
+.internship__title{
+font-style: H2 Bold;
+font-family: Inter;
+font-size: 34px;
+font-weight: 700;
+line-height: 41px;
+letter-spacing: 0em;
+text-align: left;
+color: #19191C;
+}
+.internship__description{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.prices__title{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70.19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.prices__cards-title{
+    font-style: H2 Bold;
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.prices__cards-list{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.prices__cards-price-1{
+    font-style: H3 Bold;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6D6D77;
+    }
+.prices__cards-price-2{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70.19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #19191C;
+}
+.prices__cards-button{
+    font-style: H3 Bold;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    background-color: #19191C;
+}
+.prices__cards-title-white{
+    font-style: H2 Bold;
+    font-family: Inter;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 41px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    -webkit-text-stroke: 1px black;
+}
+.prices__cards-list-white{
+    font-style: Body 1 Regular;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    -webkit-text-stroke: 1px black;
+}
+.prices__cards-price-1-white{
+    font-style: H3 Bold;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    -webkit-text-stroke: 1px black;
+    }
+.prices__cards-price-2-white{
+    font-style: H1 Bold;
+    font-family: Inter;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70.19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    -webkit-text-stroke: 1px black;
+}
+.prices__cards-button-white{
+    font-style: H3 Bold;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FBFBFC;
+    background-color: #504DEE;
+}
+footer{
+    background-color: #19191C;
+    color: #FBFBFC;
+}
+.copyright{
+    color: #6D6D77;
+}
